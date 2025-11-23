@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "CredPass": {
+      "address": "0x25b3ebF0baFeF6Db784E8E02A80aBa96686bcd30",
+      "startBlock": 9687383
+    }
+  }
+}
