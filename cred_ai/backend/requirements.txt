@@ -1,0 +1,25 @@
+fastapi
+uvicorn
+python-multipart
+
+pydantic
+pandas
+numpy
+scikit-learn
+joblib
+
+pillow
+pytesseract
+pdf2image
+
+fuzzywuzzy
+python-Levenshtein
+
+requests
+dnspython
+python-whois
+
+sentence-transformers
+
+# optional but recommended
+typing_extensions
